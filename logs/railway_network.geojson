@@ -1,0 +1,5716 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.49581,
+            37.261926
+          ],
+          [
+            127.4968,
+            37.262156
+          ],
+          [
+            127.499907,
+            37.263079
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "중부내륙선",
+        "alt_name:en": "Jungbunaeryuk Line",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "150",
+        "name": "부발기지선",
+        "name:en": "Bubalgiji Line",
+        "name:ja": "夫鉢基地線",
+        "name:ko": "부발기지선",
+        "railway": "rail",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.499907,
+            37.263079
+          ],
+          [
+            127.500828,
+            37.263341
+          ],
+          [
+            127.50153,
+            37.263547
+          ],
+          [
+            127.502017,
+            37.263658
+          ],
+          [
+            127.502415,
+            37.263737
+          ],
+          [
+            127.502774,
+            37.263798
+          ],
+          [
+            127.503121,
+            37.263833
+          ],
+          [
+            127.50353,
+            37.263857
+          ],
+          [
+            127.503988,
+            37.263864
+          ],
+          [
+            127.504452,
+            37.263841
+          ],
+          [
+            127.504832,
+            37.263811
+          ],
+          [
+            127.505239,
+            37.263756
+          ],
+          [
+            127.505643,
+            37.263677
+          ],
+          [
+            127.50591,
+            37.263615
+          ],
+          [
+            127.506163,
+            37.263544
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "중부내륙선",
+        "alt_name:en": "Jungbunaeryuk Line",
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "layer": "1",
+        "maxspeed": "150",
+        "name": "부발기지선",
+        "name:en": "Bubalgiji Line",
+        "name:ja": "夫鉢基地線",
+        "name:ko": "부발기지선",
+        "railway": "rail",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.506163,
+            37.263544
+          ],
+          [
+            127.506581,
+            37.263412
+          ],
+          [
+            127.50696,
+            37.26327
+          ],
+          [
+            127.507274,
+            37.263133
+          ],
+          [
+            127.507572,
+            37.262992
+          ],
+          [
+            127.507858,
+            37.262838
+          ],
+          [
+            127.508141,
+            37.262663
+          ],
+          [
+            127.508205,
+            37.262621
+          ],
+          [
+            127.508387,
+            37.262503
+          ],
+          [
+            127.508707,
+            37.262284
+          ],
+          [
+            127.50901,
+            37.262071
+          ],
+          [
+            127.509195,
+            37.261933
+          ],
+          [
+            127.509376,
+            37.261806
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "중부내륙선",
+        "alt_name:en": "Jungbunaeryuk Line",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "150",
+        "name": "부발기지선",
+        "name:en": "Bubalgiji Line",
+        "name:ja": "夫鉢基地線",
+        "name:ko": "부발기지선",
+        "railway": "rail",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.5067,
+            37.263644
+          ],
+          [
+            127.506436,
+            37.263762
+          ],
+          [
+            127.506236,
+            37.263849
+          ],
+          [
+            127.505904,
+            37.263976
+          ],
+          [
+            127.505515,
+            37.264104
+          ],
+          [
+            127.505138,
+            37.26421
+          ],
+          [
+            127.50471,
+            37.264297
+          ],
+          [
+            127.504321,
+            37.264358
+          ],
+          [
+            127.503886,
+            37.264407
+          ],
+          [
+            127.503508,
+            37.264429
+          ],
+          [
+            127.50315,
+            37.264443
+          ],
+          [
+            127.502752,
+            37.264437
+          ],
+          [
+            127.502341,
+            37.264408
+          ],
+          [
+            127.501934,
+            37.264365
+          ],
+          [
+            127.501696,
+            37.264329
+          ],
+          [
+            127.501621,
+            37.264317
+          ],
+          [
+            127.501229,
+            37.264239
+          ],
+          [
+            127.500856,
+            37.264136
+          ],
+          [
+            127.500445,
+            37.264014
+          ],
+          [
+            127.500079,
+            37.263876
+          ],
+          [
+            127.49961,
+            37.263677
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "중부내륙선",
+        "alt_name:en": "Jungbunaeryuk Line",
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "layer": "1",
+        "maxspeed": "150",
+        "name": "부발기지선",
+        "name:en": "Bubalgiji Line",
+        "name:ja": "夫鉢基地線",
+        "name:ko": "부발기지선",
+        "railway": "rail",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.49961,
+            37.263677
+          ],
+          [
+            127.499027,
+            37.263393
+          ],
+          [
+            127.498109,
+            37.262944
+          ],
+          [
+            127.497532,
+            37.262662
+          ],
+          [
+            127.496975,
+            37.262432
+          ],
+          [
+            127.495801,
+            37.261982
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "중부내륙선",
+        "alt_name:en": "Jungbunaeryuk Line",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "150",
+        "name": "부발기지선",
+        "name:en": "Bubalgiji Line",
+        "name:ja": "夫鉢基地線",
+        "name:ko": "부발기지선",
+        "railway": "rail",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.510945,
+            37.260586
+          ],
+          [
+            127.511128,
+            37.260385
+          ],
+          [
+            127.511195,
+            37.260313
+          ],
+          [
+            127.511484,
+            37.259949
+          ],
+          [
+            127.511887,
+            37.259265
+          ],
+          [
+            127.51202,
+            37.258986
+          ],
+          [
+            127.512161,
+            37.258669
+          ],
+          [
+            127.512287,
+            37.258413
+          ],
+          [
+            127.512373,
+            37.258196
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "layer": "1",
+        "maxspeed": "150",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "railway": "rail",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.510984,
+            37.260606
+          ],
+          [
+            127.510735,
+            37.260835
+          ],
+          [
+            127.510428,
+            37.261079
+          ],
+          [
+            127.50983,
+            37.261528
+          ],
+          [
+            127.509046,
+            37.262102
+          ],
+          [
+            127.508602,
+            37.262409
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "railway": "rail",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.512373,
+            37.258196
+          ],
+          [
+            127.51242,
+            37.257948
+          ],
+          [
+            127.512443,
+            37.257679
+          ],
+          [
+            127.512448,
+            37.257345
+          ],
+          [
+            127.512438,
+            37.25699
+          ],
+          [
+            127.512367,
+            37.255904
+          ],
+          [
+            127.512327,
+            37.255432
+          ],
+          [
+            127.512294,
+            37.25522
+          ],
+          [
+            127.512199,
+            37.254604
+          ],
+          [
+            127.51217,
+            37.254179
+          ],
+          [
+            127.512155,
+            37.25367
+          ],
+          [
+            127.512162,
+            37.252786
+          ],
+          [
+            127.51215,
+            37.252254
+          ],
+          [
+            127.51209,
+            37.251708
+          ],
+          [
+            127.512072,
+            37.251452
+          ],
+          [
+            127.512066,
+            37.249801
+          ],
+          [
+            127.511974,
+            37.24873
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "150",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.512419,
+            37.258194
+          ],
+          [
+            127.512335,
+            37.258429
+          ],
+          [
+            127.512209,
+            37.258688
+          ],
+          [
+            127.512066,
+            37.258999
+          ],
+          [
+            127.511933,
+            37.259276
+          ],
+          [
+            127.511524,
+            37.259963
+          ],
+          [
+            127.511316,
+            37.260232
+          ],
+          [
+            127.511239,
+            37.26033
+          ],
+          [
+            127.510984,
+            37.260606
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "layer": "1",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.875693,
+            37.066736
+          ],
+          [
+            127.876875,
+            37.066467
+          ],
+          [
+            127.878049,
+            37.066155
+          ],
+          [
+            127.879395,
+            37.065693
+          ],
+          [
+            127.880679,
+            37.065196
+          ],
+          [
+            127.88169,
+            37.064734
+          ],
+          [
+            127.882478,
+            37.064349
+          ],
+          [
+            127.883602,
+            37.063705
+          ],
+          [
+            127.884591,
+            37.063076
+          ],
+          [
+            127.885441,
+            37.062488
+          ],
+          [
+            127.886624,
+            37.06157
+          ],
+          [
+            127.890256,
+            37.058657
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.490154,
+            37.260212
+          ],
+          [
+            127.491214,
+            37.260527
+          ],
+          [
+            127.493149,
+            37.261165
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "railway": "rail",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.493116,
+            37.261206
+          ],
+          [
+            127.491163,
+            37.260768
+          ],
+          [
+            127.490029,
+            37.260439
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "railway": "rail",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.51207,
+            37.249058
+          ],
+          [
+            127.512111,
+            37.249794
+          ],
+          [
+            127.512121,
+            37.251442
+          ],
+          [
+            127.512137,
+            37.251699
+          ],
+          [
+            127.512197,
+            37.25225
+          ],
+          [
+            127.512212,
+            37.252789
+          ],
+          [
+            127.512195,
+            37.253677
+          ],
+          [
+            127.512201,
+            37.25418
+          ],
+          [
+            127.512248,
+            37.254602
+          ],
+          [
+            127.512276,
+            37.254787
+          ],
+          [
+            127.512374,
+            37.255435
+          ],
+          [
+            127.512415,
+            37.255895
+          ],
+          [
+            127.512488,
+            37.25699
+          ],
+          [
+            127.512502,
+            37.257329
+          ],
+          [
+            127.512493,
+            37.257674
+          ],
+          [
+            127.512465,
+            37.257949
+          ],
+          [
+            127.512419,
+            37.258194
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.906633,
+            37.045468
+          ],
+          [
+            127.908948,
+            37.043608
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.896678,
+            37.053491
+          ],
+          [
+            127.897039,
+            37.053188
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.890256,
+            37.058657
+          ],
+          [
+            127.893191,
+            37.056282
+          ],
+          [
+            127.896133,
+            37.053928
+          ],
+          [
+            127.896678,
+            37.053491
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.900563,
+            37.050364
+          ],
+          [
+            127.900851,
+            37.050127
+          ],
+          [
+            127.901167,
+            37.049854
+          ],
+          [
+            127.902542,
+            37.048768
+          ],
+          [
+            127.904651,
+            37.047067
+          ],
+          [
+            127.90506,
+            37.046732
+          ],
+          [
+            127.905456,
+            37.046414
+          ],
+          [
+            127.906633,
+            37.045468
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.866993,
+            37.067674
+          ],
+          [
+            127.869544,
+            37.067434
+          ],
+          [
+            127.872332,
+            37.067192
+          ],
+          [
+            127.873821,
+            37.067024
+          ],
+          [
+            127.874696,
+            37.066905
+          ],
+          [
+            127.875693,
+            37.066736
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.864931,
+            37.06789
+          ],
+          [
+            127.865274,
+            37.06786
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "tunnel": "yes",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.863976,
+            37.067975
+          ],
+          [
+            127.864931,
+            37.06789
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.859276,
+            37.068457
+          ],
+          [
+            127.863976,
+            37.067975
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "tunnel": "yes",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.857304,
+            37.068714
+          ],
+          [
+            127.858239,
+            37.068592
+          ],
+          [
+            127.859276,
+            37.068457
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.843364,
+            37.070179
+          ],
+          [
+            127.853169,
+            37.069083
+          ],
+          [
+            127.854835,
+            37.068939
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.842126,
+            37.07036
+          ],
+          [
+            127.843364,
+            37.070179
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.840458,
+            37.070557
+          ],
+          [
+            127.842126,
+            37.07036
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.839545,
+            37.070647
+          ],
+          [
+            127.840458,
+            37.070557
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.835683,
+            37.07105
+          ],
+          [
+            127.839545,
+            37.070647
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.832512,
+            37.071471
+          ],
+          [
+            127.833188,
+            37.071389
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.833188,
+            37.071389
+          ],
+          [
+            127.835683,
+            37.07105
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.799074,
+            37.085189
+          ],
+          [
+            127.810604,
+            37.078594
+          ],
+          [
+            127.815933,
+            37.076032
+          ],
+          [
+            127.819414,
+            37.074733
+          ],
+          [
+            127.824634,
+            37.072969
+          ],
+          [
+            127.828948,
+            37.072029
+          ],
+          [
+            127.832512,
+            37.071471
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "tunnel": "yes",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.798185,
+            37.085684
+          ],
+          [
+            127.799074,
+            37.085189
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.79576,
+            37.087058
+          ],
+          [
+            127.798185,
+            37.085684
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.791487,
+            37.089503
+          ],
+          [
+            127.79576,
+            37.087058
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.790969,
+            37.089778
+          ],
+          [
+            127.791487,
+            37.089503
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.783645,
+            37.094052
+          ],
+          [
+            127.784152,
+            37.093704
+          ],
+          [
+            127.785364,
+            37.092918
+          ],
+          [
+            127.786178,
+            37.092437
+          ],
+          [
+            127.786894,
+            37.092024
+          ],
+          [
+            127.787667,
+            37.091579
+          ],
+          [
+            127.788569,
+            37.091149
+          ],
+          [
+            127.789924,
+            37.090389
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.781715,
+            37.095098
+          ],
+          [
+            127.782364,
+            37.094728
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.777372,
+            37.097083
+          ],
+          [
+            127.777989,
+            37.096852
+          ],
+          [
+            127.778768,
+            37.096562
+          ],
+          [
+            127.779585,
+            37.096155
+          ],
+          [
+            127.780628,
+            37.095632
+          ],
+          [
+            127.781715,
+            37.095098
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.776144,
+            37.097626
+          ],
+          [
+            127.777372,
+            37.097083
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.773037,
+            37.098349
+          ],
+          [
+            127.773741,
+            37.098213
+          ],
+          [
+            127.775349,
+            37.097847
+          ],
+          [
+            127.776144,
+            37.097626
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.765515,
+            37.098793
+          ],
+          [
+            127.766549,
+            37.098768
+          ],
+          [
+            127.769629,
+            37.098692
+          ],
+          [
+            127.770992,
+            37.098599
+          ],
+          [
+            127.772182,
+            37.098474
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.772182,
+            37.098474
+          ],
+          [
+            127.773037,
+            37.098349
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.667684,
+            37.106345
+          ],
+          [
+            127.670159,
+            37.104375
+          ],
+          [
+            127.671885,
+            37.103258
+          ],
+          [
+            127.673338,
+            37.102635
+          ],
+          [
+            127.675519,
+            37.1021
+          ],
+          [
+            127.67825,
+            37.101643
+          ],
+          [
+            127.680128,
+            37.101497
+          ],
+          [
+            127.683207,
+            37.101267
+          ],
+          [
+            127.698527,
+            37.100839
+          ],
+          [
+            127.719148,
+            37.100479
+          ],
+          [
+            127.734455,
+            37.099864
+          ],
+          [
+            127.74922,
+            37.099361
+          ],
+          [
+            127.765515,
+            37.098793
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tunnel": "yes",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.664808,
+            37.108626
+          ],
+          [
+            127.667684,
+            37.106345
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.663292,
+            37.109941
+          ],
+          [
+            127.664808,
+            37.108626
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tunnel": "yes",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.657943,
+            37.114588
+          ],
+          [
+            127.659046,
+            37.113645
+          ],
+          [
+            127.662188,
+            37.110904
+          ],
+          [
+            127.663292,
+            37.109941
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.653081,
+            37.11882
+          ],
+          [
+            127.65753,
+            37.114952
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.648016,
+            37.122478
+          ],
+          [
+            127.65004,
+            37.121238
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tunnel": "yes",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.650155,
+            37.121161
+          ],
+          [
+            127.651044,
+            37.120475
+          ],
+          [
+            127.653081,
+            37.11882
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.635042,
+            37.127144
+          ],
+          [
+            127.639551,
+            37.125674
+          ],
+          [
+            127.640366,
+            37.125408
+          ],
+          [
+            127.641878,
+            37.124932
+          ],
+          [
+            127.643742,
+            37.124304
+          ],
+          [
+            127.645531,
+            37.123639
+          ],
+          [
+            127.646419,
+            37.123269
+          ],
+          [
+            127.647365,
+            37.122817
+          ],
+          [
+            127.648016,
+            37.122478
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "layer": "1",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.634633,
+            37.127292
+          ],
+          [
+            127.635042,
+            37.127144
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "layer": "1",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.632178,
+            37.128116
+          ],
+          [
+            127.632657,
+            37.127962
+          ],
+          [
+            127.633241,
+            37.127757
+          ],
+          [
+            127.634633,
+            37.127292
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "layer": "1",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.628322,
+            37.1294
+          ],
+          [
+            127.632178,
+            37.128116
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.620971,
+            37.13189
+          ],
+          [
+            127.626449,
+            37.130019
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.619396,
+            37.132555
+          ],
+          [
+            127.620971,
+            37.13189
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.616947,
+            37.133904
+          ],
+          [
+            127.617948,
+            37.133329
+          ],
+          [
+            127.619396,
+            37.132555
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.616411,
+            37.134236
+          ],
+          [
+            127.616947,
+            37.133904
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "layer": "-1",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tunnel": "yes",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.611823,
+            37.138399
+          ],
+          [
+            127.611875,
+            37.138328
+          ],
+          [
+            127.613629,
+            37.136479
+          ],
+          [
+            127.614818,
+            37.135358
+          ],
+          [
+            127.616148,
+            37.134421
+          ],
+          [
+            127.616411,
+            37.134236
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.611058,
+            37.139412
+          ],
+          [
+            127.611271,
+            37.139132
+          ],
+          [
+            127.611823,
+            37.138399
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.608737,
+            37.142799
+          ],
+          [
+            127.611058,
+            37.139412
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.600892,
+            37.151128
+          ],
+          [
+            127.601737,
+            37.15048
+          ],
+          [
+            127.602665,
+            37.149743
+          ],
+          [
+            127.603336,
+            37.149142
+          ],
+          [
+            127.604693,
+            37.147878
+          ],
+          [
+            127.606585,
+            37.145833
+          ],
+          [
+            127.607236,
+            37.14499
+          ],
+          [
+            127.608246,
+            37.143516
+          ],
+          [
+            127.608737,
+            37.142799
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.600203,
+            37.15161
+          ],
+          [
+            127.600547,
+            37.151373
+          ],
+          [
+            127.600892,
+            37.151128
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tunnel": "yes",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.598033,
+            37.153
+          ],
+          [
+            127.598412,
+            37.152765
+          ],
+          [
+            127.599839,
+            37.151845
+          ],
+          [
+            127.599975,
+            37.151757
+          ],
+          [
+            127.600203,
+            37.15161
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.595956,
+            37.154284
+          ],
+          [
+            127.598033,
+            37.153
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.593016,
+            37.15611
+          ],
+          [
+            127.593493,
+            37.155822
+          ],
+          [
+            127.594834,
+            37.154978
+          ],
+          [
+            127.595956,
+            37.154284
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.586168,
+            37.160323
+          ],
+          [
+            127.586683,
+            37.160005
+          ],
+          [
+            127.588299,
+            37.15899
+          ],
+          [
+            127.589144,
+            37.158468
+          ],
+          [
+            127.589989,
+            37.157945
+          ],
+          [
+            127.593016,
+            37.15611
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.579859,
+            37.164217
+          ],
+          [
+            127.581744,
+            37.16305
+          ],
+          [
+            127.586168,
+            37.160323
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.577056,
+            37.166028
+          ],
+          [
+            127.578093,
+            37.165317
+          ],
+          [
+            127.579859,
+            37.164217
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.511974,
+            37.24873
+          ],
+          [
+            127.512013,
+            37.248865
+          ],
+          [
+            127.51207,
+            37.249058
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "150",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.908948,
+            37.043608
+          ],
+          [
+            127.909315,
+            37.043327
+          ],
+          [
+            127.909751,
+            37.042968
+          ],
+          [
+            127.910272,
+            37.04251
+          ],
+          [
+            127.91082,
+            37.041993
+          ],
+          [
+            127.911208,
+            37.041581
+          ],
+          [
+            127.911586,
+            37.04111
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.911586,
+            37.04111
+          ],
+          [
+            127.911981,
+            37.040554
+          ],
+          [
+            127.912291,
+            37.040051
+          ],
+          [
+            127.91252,
+            37.039621
+          ],
+          [
+            127.9127,
+            37.039219
+          ],
+          [
+            127.912915,
+            37.038631
+          ],
+          [
+            127.913071,
+            37.038096
+          ],
+          [
+            127.913161,
+            37.037701
+          ],
+          [
+            127.913228,
+            37.037218
+          ],
+          [
+            127.913274,
+            37.036799
+          ],
+          [
+            127.913293,
+            37.036364
+          ],
+          [
+            127.91328,
+            37.035792
+          ],
+          [
+            127.913235,
+            37.035132
+          ],
+          [
+            127.912877,
+            37.031567
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.9127,
+            37.030417
+          ],
+          [
+            127.912579,
+            37.029174
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.912877,
+            37.031567
+          ],
+          [
+            127.9127,
+            37.030417
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "tunnel": "yes",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.912503,
+            37.028723
+          ],
+          [
+            127.912284,
+            37.027258
+          ],
+          [
+            127.912154,
+            37.025885
+          ],
+          [
+            127.912088,
+            37.025181
+          ],
+          [
+            127.912085,
+            37.023779
+          ],
+          [
+            127.912122,
+            37.023066
+          ],
+          [
+            127.91229,
+            37.021447
+          ],
+          [
+            127.912344,
+            37.020967
+          ],
+          [
+            127.912415,
+            37.020454
+          ],
+          [
+            127.912744,
+            37.018476
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.912579,
+            37.029174
+          ],
+          [
+            127.912503,
+            37.028723
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "tunnel": "yes",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.915701,
+            37.003135
+          ],
+          [
+            127.915766,
+            37.002789
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.915303,
+            37.005153
+          ],
+          [
+            127.915701,
+            37.003135
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.912744,
+            37.018476
+          ],
+          [
+            127.915303,
+            37.005153
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.915766,
+            37.002789
+          ],
+          [
+            127.915996,
+            37.001295
+          ],
+          [
+            127.916073,
+            37.000593
+          ],
+          [
+            127.916128,
+            37.000042
+          ],
+          [
+            127.916432,
+            36.993898
+          ],
+          [
+            127.916459,
+            36.992802
+          ],
+          [
+            127.916441,
+            36.992376
+          ],
+          [
+            127.916409,
+            36.991928
+          ],
+          [
+            127.916367,
+            36.991501
+          ],
+          [
+            127.916295,
+            36.991092
+          ],
+          [
+            127.916205,
+            36.990726
+          ],
+          [
+            127.91608,
+            36.990312
+          ],
+          [
+            127.91595,
+            36.989959
+          ],
+          [
+            127.915763,
+            36.989516
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.915763,
+            36.989516
+          ],
+          [
+            127.915585,
+            36.989155
+          ],
+          [
+            127.915421,
+            36.988826
+          ],
+          [
+            127.915159,
+            36.988358
+          ],
+          [
+            127.91193,
+            36.982443
+          ],
+          [
+            127.911301,
+            36.981357
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.91022,
+            36.979406
+          ],
+          [
+            127.910929,
+            36.980686
+          ],
+          [
+            127.911301,
+            36.981357
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.909147,
+            36.977405
+          ],
+          [
+            127.91022,
+            36.979406
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.907876,
+            36.975078
+          ],
+          [
+            127.908472,
+            36.976173
+          ],
+          [
+            127.908861,
+            36.976906
+          ],
+          [
+            127.909147,
+            36.977405
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "name": "중부내륙선",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "railway": "rail",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.907707,
+            36.975122
+          ],
+          [
+            127.908411,
+            36.976255
+          ],
+          [
+            127.909147,
+            36.977405
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "name": "중부내륙선",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.572409,
+            37.16875
+          ],
+          [
+            127.573481,
+            37.168183
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.574016,
+            37.167879
+          ],
+          [
+            127.575161,
+            37.167207
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.573481,
+            37.168183
+          ],
+          [
+            127.574016,
+            37.167879
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.575161,
+            37.167207
+          ],
+          [
+            127.577056,
+            37.166028
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.566506,
+            37.171197
+          ],
+          [
+            127.567083,
+            37.170932
+          ],
+          [
+            127.567874,
+            37.170653
+          ],
+          [
+            127.569711,
+            37.169959
+          ],
+          [
+            127.57038,
+            37.169577
+          ],
+          [
+            127.571331,
+            37.169186
+          ],
+          [
+            127.572409,
+            37.16875
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.56582,
+            37.171439
+          ],
+          [
+            127.566506,
+            37.171197
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.565227,
+            37.171581
+          ],
+          [
+            127.56582,
+            37.171439
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.561838,
+            37.172716
+          ],
+          [
+            127.562494,
+            37.172586
+          ],
+          [
+            127.563208,
+            37.172368
+          ],
+          [
+            127.563632,
+            37.17217
+          ],
+          [
+            127.564794,
+            37.171697
+          ],
+          [
+            127.565227,
+            37.171581
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.559156,
+            37.173736
+          ],
+          [
+            127.559705,
+            37.173569
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.559705,
+            37.173569
+          ],
+          [
+            127.56048,
+            37.173274
+          ],
+          [
+            127.561838,
+            37.172716
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.555689,
+            37.175481
+          ],
+          [
+            127.556579,
+            37.174953
+          ],
+          [
+            127.558312,
+            37.174024
+          ],
+          [
+            127.558383,
+            37.173996
+          ],
+          [
+            127.558726,
+            37.173859
+          ],
+          [
+            127.559156,
+            37.173736
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.554173,
+            37.176458
+          ],
+          [
+            127.555689,
+            37.175481
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.549309,
+            37.181174
+          ],
+          [
+            127.550595,
+            37.179618
+          ],
+          [
+            127.552171,
+            37.178116
+          ],
+          [
+            127.553496,
+            37.176936
+          ],
+          [
+            127.553618,
+            37.176828
+          ],
+          [
+            127.554173,
+            37.176458
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.547903,
+            37.182867
+          ],
+          [
+            127.549309,
+            37.181174
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.544684,
+            37.186555
+          ],
+          [
+            127.546536,
+            37.184463
+          ],
+          [
+            127.547903,
+            37.182867
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.541625,
+            37.190197
+          ],
+          [
+            127.541908,
+            37.189775
+          ],
+          [
+            127.542585,
+            37.188804
+          ],
+          [
+            127.543837,
+            37.187448
+          ],
+          [
+            127.544684,
+            37.186555
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.540786,
+            37.191275
+          ],
+          [
+            127.541625,
+            37.190197
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.538555,
+            37.193895
+          ],
+          [
+            127.539615,
+            37.19271
+          ],
+          [
+            127.540786,
+            37.191275
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.535067,
+            37.198034
+          ],
+          [
+            127.53554,
+            37.197442
+          ],
+          [
+            127.535659,
+            37.197293
+          ],
+          [
+            127.536102,
+            37.196747
+          ],
+          [
+            127.536639,
+            37.196034
+          ],
+          [
+            127.536832,
+            37.195773
+          ],
+          [
+            127.537421,
+            37.195075
+          ],
+          [
+            127.537628,
+            37.194846
+          ],
+          [
+            127.537946,
+            37.194535
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.533212,
+            37.200114
+          ],
+          [
+            127.534412,
+            37.198726
+          ],
+          [
+            127.535067,
+            37.198034
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.527778,
+            37.206471
+          ],
+          [
+            127.5298,
+            37.203889
+          ],
+          [
+            127.532381,
+            37.200978
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tunnel": "yes",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.525374,
+            37.209547
+          ],
+          [
+            127.52596,
+            37.208734
+          ],
+          [
+            127.527319,
+            37.207152
+          ],
+          [
+            127.527778,
+            37.206471
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.519016,
+            37.221786
+          ],
+          [
+            127.521245,
+            37.216526
+          ],
+          [
+            127.521399,
+            37.216183
+          ],
+          [
+            127.521954,
+            37.21504
+          ],
+          [
+            127.522629,
+            37.213798
+          ],
+          [
+            127.523106,
+            37.212968
+          ],
+          [
+            127.523844,
+            37.211776
+          ],
+          [
+            127.524666,
+            37.210539
+          ],
+          [
+            127.525374,
+            37.209547
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.516324,
+            37.227995
+          ],
+          [
+            127.517267,
+            37.22587
+          ],
+          [
+            127.517549,
+            37.225131
+          ],
+          [
+            127.517855,
+            37.224346
+          ],
+          [
+            127.518175,
+            37.223734
+          ],
+          [
+            127.519016,
+            37.221786
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.515668,
+            37.229682
+          ],
+          [
+            127.51601,
+            37.228801
+          ],
+          [
+            127.516324,
+            37.227995
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "layer": "-1",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tunnel": "yes",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.51393,
+            37.233898
+          ],
+          [
+            127.514199,
+            37.233187
+          ],
+          [
+            127.51437,
+            37.232757
+          ],
+          [
+            127.514587,
+            37.232258
+          ],
+          [
+            127.514702,
+            37.231954
+          ],
+          [
+            127.514772,
+            37.231769
+          ],
+          [
+            127.515121,
+            37.230767
+          ],
+          [
+            127.515278,
+            37.230448
+          ],
+          [
+            127.515668,
+            37.229682
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.511927,
+            37.248224
+          ],
+          [
+            127.511783,
+            37.244898
+          ],
+          [
+            127.511698,
+            37.243088
+          ],
+          [
+            127.511683,
+            37.242074
+          ],
+          [
+            127.511716,
+            37.241424
+          ],
+          [
+            127.511758,
+            37.240842
+          ],
+          [
+            127.511867,
+            37.239982
+          ],
+          [
+            127.512011,
+            37.239235
+          ],
+          [
+            127.512229,
+            37.238365
+          ],
+          [
+            127.512385,
+            37.23786
+          ],
+          [
+            127.512574,
+            37.237266
+          ],
+          [
+            127.51283,
+            37.236589
+          ],
+          [
+            127.513424,
+            37.235147
+          ],
+          [
+            127.51393,
+            37.233898
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.508602,
+            37.262409
+          ],
+          [
+            127.507925,
+            37.262898
+          ],
+          [
+            127.507591,
+            37.263118
+          ],
+          [
+            127.507277,
+            37.263323
+          ],
+          [
+            127.506976,
+            37.263503
+          ],
+          [
+            127.5067,
+            37.263644
+          ]
+        ]
+      },
+      "properties": {
+        "alt_name": "중부내륙선",
+        "alt_name:en": "Jungbunaeryuk Line",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "150",
+        "name": "부발기지선",
+        "name:en": "Bubalgiji Line",
+        "name:ja": "夫鉢基地線",
+        "name:ko": "부발기지선",
+        "railway": "rail",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.509376,
+            37.261806
+          ],
+          [
+            127.510409,
+            37.261034
+          ],
+          [
+            127.510711,
+            37.260793
+          ],
+          [
+            127.510945,
+            37.260586
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "150",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "railway": "rail",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.865274,
+            37.06786
+          ],
+          [
+            127.866028,
+            37.067777
+          ],
+          [
+            127.86673,
+            37.067701
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.86673,
+            37.067701
+          ],
+          [
+            127.866993,
+            37.067674
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "layer": "-1",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "tunnel": "yes",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.854835,
+            37.068939
+          ],
+          [
+            127.857304,
+            37.068714
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "layer": "1",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.65753,
+            37.114952
+          ],
+          [
+            127.657695,
+            37.114806
+          ],
+          [
+            127.657943,
+            37.114588
+          ]
+        ]
+      },
+      "properties": {
+        "bridge": "yes",
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "layer": "1",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.626449,
+            37.130019
+          ],
+          [
+            127.628322,
+            37.1294
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.493149,
+            37.261165
+          ],
+          [
+            127.49394,
+            37.261396
+          ],
+          [
+            127.495318,
+            37.261786
+          ],
+          [
+            127.49581,
+            37.261926
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "100",
+        "name": "경강선",
+        "name:en": "Gyeonggang Line",
+        "name:ja": "京江線",
+        "name:ko-Hani": "京江線",
+        "name:zh": "京江線",
+        "name:zh-Hans": "京江线",
+        "name:zh-Hant": "京江線",
+        "railway": "rail",
+        "ref": "218",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.493116,
+            37.261206
+          ],
+          [
+            127.493912,
+            37.261444
+          ],
+          [
+            127.494736,
+            37.26167
+          ],
+          [
+            127.495801,
+            37.261982
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "100",
+        "name": "경강선",
+        "name:en": "Gyeonggang Line",
+        "name:ja": "京江線",
+        "name:ko-Hani": "京江線",
+        "name:zh": "京江線",
+        "name:zh-Hans": "京江线",
+        "name:zh-Hant": "京江線",
+        "railway": "rail",
+        "ref": "218",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.65004,
+            37.121238
+          ],
+          [
+            127.650155,
+            37.121161
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.511974,
+            37.24873
+          ],
+          [
+            127.511961,
+            37.248502
+          ],
+          [
+            127.511927,
+            37.248224
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "150",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.532381,
+            37.200978
+          ],
+          [
+            127.533212,
+            37.200114
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.537946,
+            37.194535
+          ],
+          [
+            127.538555,
+            37.193895
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.907003,
+            36.973731
+          ],
+          [
+            127.907296,
+            36.974334
+          ],
+          [
+            127.907707,
+            36.975122
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "name": "중부내륙선",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.906636,
+            36.972957
+          ],
+          [
+            127.907022,
+            36.973588
+          ],
+          [
+            127.907876,
+            36.975078
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "name": "중부내륙선",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "railway": "rail",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.897039,
+            37.053188
+          ],
+          [
+            127.899449,
+            37.051252
+          ],
+          [
+            127.900563,
+            37.050364
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "operator:en": "Korail",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "tracks": "1",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            127.789924,
+            37.090389
+          ],
+          [
+            127.790458,
+            37.090083
+          ],
+          [
+            127.790969,
+            37.089778
+          ]
+        ]
+      },
+      "properties": {
+        "electrified": "contact_line",
+        "embankment": "yes",
+        "frequency": "60",
+        "gauge": "1435",
+        "maxspeed": "200",
+        "name": "중부내륙선",
+        "name:en": "Jungbunaeryuk Line",
+        "name:ja": "中部内陸線",
+        "name:ko": "중부내륙선",
+        "name:ko-Hani": "中部內陸線",
+        "name:zh-Hans": "中部内陆线",
+        "name:zh-Hant": "中部內陸線",
+        "operator": "한국철도공사",
+        "railway": "rail",
+        "start_date": "2021-12-31",
+        "usage": "main",
+        "voltage": "25000"
+      }
+    }
+  ]
+}

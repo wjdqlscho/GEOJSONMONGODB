@@ -1,0 +1,1204 @@
+[2024-07-31T11:22:45.251+0000] {processor.py:157} INFO - Started process (PID=167) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:22:45.253+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:22:45.254+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:22:45.254+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:22:45.264+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:22:45.263+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:22:45.265+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:22:45.329+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.082 seconds
+[2024-07-31T11:23:15.601+0000] {processor.py:157} INFO - Started process (PID=172) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:23:15.605+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:23:15.609+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:23:15.606+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:23:15.636+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:23:15.628+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:23:15.639+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:23:15.751+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.157 seconds
+[2024-07-31T11:23:38.905+0000] {processor.py:157} INFO - Started process (PID=177) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:23:38.906+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:23:38.907+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:23:38.906+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:23:38.923+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:23:38.916+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:23:38.924+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:23:38.994+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.093 seconds
+[2024-07-31T11:24:34.585+0000] {processor.py:157} INFO - Started process (PID=167) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:24:34.587+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:24:34.587+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:24:34.587+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:24:34.593+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:24:34.592+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:24:34.594+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:24:34.652+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.069 seconds
+[2024-07-31T11:25:04.919+0000] {processor.py:157} INFO - Started process (PID=172) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:25:04.919+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:25:04.921+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:25:04.920+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:25:04.931+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:25:04.929+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:25:04.931+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:25:05.001+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.086 seconds
+[2024-07-31T11:25:35.269+0000] {processor.py:157} INFO - Started process (PID=177) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:25:35.270+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:25:35.271+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:25:35.270+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:25:35.278+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:25:35.276+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:25:35.278+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:25:35.337+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.072 seconds
+[2024-07-31T11:26:05.695+0000] {processor.py:157} INFO - Started process (PID=182) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:26:05.696+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:26:05.698+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:26:05.697+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:26:05.714+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:26:05.712+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:26:05.715+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:26:05.782+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.094 seconds
+[2024-07-31T11:26:27.008+0000] {processor.py:157} INFO - Started process (PID=187) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:26:27.009+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:26:27.011+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:26:27.010+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:26:27.026+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:26:27.022+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:26:27.026+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:26:27.099+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.095 seconds
+[2024-07-31T11:27:06.305+0000] {processor.py:157} INFO - Started process (PID=167) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:27:06.309+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:27:06.313+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:27:06.313+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:27:06.319+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:27:06.318+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:27:06.320+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:27:06.381+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.078 seconds
+[2024-07-31T11:27:36.650+0000] {processor.py:157} INFO - Started process (PID=172) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:27:36.651+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:27:36.651+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:27:36.651+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:27:36.678+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:27:36.671+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:27:36.679+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:27:36.756+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.110 seconds
+[2024-07-31T11:28:07.111+0000] {processor.py:157} INFO - Started process (PID=177) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:28:07.112+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:28:07.113+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:28:07.113+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:28:07.128+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:28:07.124+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:28:07.129+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:28:07.211+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.104 seconds
+[2024-07-31T11:28:37.651+0000] {processor.py:157} INFO - Started process (PID=182) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:28:37.651+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:28:37.652+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:28:37.652+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:28:37.672+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:28:37.670+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:28:37.673+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:28:37.734+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.087 seconds
+[2024-07-31T11:29:08.124+0000] {processor.py:157} INFO - Started process (PID=187) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:29:08.125+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:29:08.126+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:29:08.126+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:29:08.136+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:29:08.134+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:29:08.136+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:29:08.205+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.084 seconds
+[2024-07-31T11:29:38.558+0000] {processor.py:157} INFO - Started process (PID=192) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:29:38.560+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:29:38.561+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:29:38.561+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:29:38.588+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:29:38.581+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:29:38.589+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:29:38.661+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.109 seconds
+[2024-07-31T11:30:09.017+0000] {processor.py:157} INFO - Started process (PID=197) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:30:09.018+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:30:09.019+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:30:09.019+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:30:09.030+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:30:09.028+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:30:09.030+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:30:09.105+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.092 seconds
+[2024-07-31T11:30:39.403+0000] {processor.py:157} INFO - Started process (PID=202) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:30:39.404+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:30:39.404+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:30:39.404+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:30:39.409+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:30:39.408+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:30:39.409+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:30:39.471+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.070 seconds
+[2024-07-31T11:31:31.208+0000] {processor.py:157} INFO - Started process (PID=167) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:31:31.211+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:31:31.219+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:31:31.216+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:31:31.237+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:31:31.233+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:31:31.238+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:31:31.307+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.105 seconds
+[2024-07-31T11:32:01.622+0000] {processor.py:157} INFO - Started process (PID=172) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:32:01.623+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:32:01.626+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:32:01.625+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:32:01.643+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:32:01.641+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:32:01.645+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:32:01.724+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.117 seconds
+[2024-07-31T11:33:46.592+0000] {processor.py:157} INFO - Started process (PID=167) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:33:46.594+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:33:46.595+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:33:46.595+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:33:46.601+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:33:46.599+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:33:46.601+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:33:46.669+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.078 seconds
+[2024-07-31T11:34:16.928+0000] {processor.py:157} INFO - Started process (PID=172) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:34:16.929+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:34:16.930+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:34:16.930+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:34:16.954+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:34:16.948+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:34:16.954+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:34:17.020+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.095 seconds
+[2024-07-31T11:34:47.346+0000] {processor.py:157} INFO - Started process (PID=177) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:34:47.348+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:34:47.352+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:34:47.349+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:34:47.366+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:34:47.363+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:34:47.366+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:34:47.430+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.088 seconds
+[2024-07-31T11:35:17.694+0000] {processor.py:157} INFO - Started process (PID=182) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:35:17.695+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:35:17.696+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:35:17.695+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:35:17.710+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:35:17.706+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:35:17.711+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:35:17.790+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.101 seconds
+[2024-07-31T11:35:48.183+0000] {processor.py:157} INFO - Started process (PID=187) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:35:48.184+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:35:48.184+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:35:48.184+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:35:48.192+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:35:48.191+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:35:48.193+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:35:48.267+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.088 seconds
+[2024-07-31T11:36:18.521+0000] {processor.py:157} INFO - Started process (PID=192) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:36:18.521+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:36:18.522+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:36:18.522+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:36:18.530+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:36:18.528+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:36:18.530+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:36:18.593+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.076 seconds
+[2024-07-31T11:36:48.981+0000] {processor.py:157} INFO - Started process (PID=197) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:36:48.982+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:36:48.983+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:36:48.982+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:36:48.995+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:36:48.992+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:36:48.995+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:36:49.067+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.091 seconds
+[2024-07-31T11:37:19.354+0000] {processor.py:157} INFO - Started process (PID=202) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:37:19.354+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:37:19.356+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:37:19.355+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:37:19.366+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:37:19.364+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:37:19.367+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:37:19.441+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.092 seconds
+[2024-07-31T11:37:49.746+0000] {processor.py:157} INFO - Started process (PID=207) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:37:49.747+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:37:49.748+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:37:49.748+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:37:49.754+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:37:49.753+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:37:49.755+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:37:49.815+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.072 seconds
+[2024-07-31T11:38:20.171+0000] {processor.py:157} INFO - Started process (PID=212) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:38:20.172+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:38:20.174+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:38:20.173+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:38:20.187+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:38:20.182+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:38:20.188+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:38:20.263+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.096 seconds
+[2024-07-31T11:38:50.531+0000] {processor.py:157} INFO - Started process (PID=217) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:38:50.532+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:38:50.533+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:38:50.532+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:38:50.543+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:38:50.541+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:38:50.544+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:38:50.623+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.098 seconds
+[2024-07-31T11:39:20.866+0000] {processor.py:157} INFO - Started process (PID=222) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:39:20.867+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:39:20.867+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:39:20.867+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:39:20.872+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:39:20.871+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:39:20.872+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:39:20.935+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.071 seconds
+[2024-07-31T11:39:51.236+0000] {processor.py:157} INFO - Started process (PID=227) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:39:51.237+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:39:51.238+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:39:51.237+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:39:51.251+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:39:51.248+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:39:51.251+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:39:51.322+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.097 seconds
+[2024-07-31T11:40:21.626+0000] {processor.py:157} INFO - Started process (PID=232) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:40:21.627+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:40:21.628+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:40:21.628+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:40:21.639+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:40:21.637+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:40:21.640+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:40:21.723+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.101 seconds
+[2024-07-31T11:40:52.073+0000] {processor.py:157} INFO - Started process (PID=237) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:40:52.074+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:40:52.075+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:40:52.075+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:40:52.086+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:40:52.083+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:40:52.086+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:40:52.156+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.087 seconds
+[2024-07-31T11:41:22.500+0000] {processor.py:157} INFO - Started process (PID=242) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:41:22.500+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:41:22.501+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:41:22.501+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:41:22.510+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:41:22.508+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:41:22.511+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:41:22.576+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.080 seconds
+[2024-07-31T11:41:52.920+0000] {processor.py:157} INFO - Started process (PID=247) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:41:52.923+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:41:52.928+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:41:52.927+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:41:52.938+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:41:52.936+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:41:52.939+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:41:53.003+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.089 seconds
+[2024-07-31T11:42:23.257+0000] {processor.py:157} INFO - Started process (PID=252) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:42:23.258+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:42:23.258+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:42:23.258+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:42:23.264+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:42:23.263+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:42:23.264+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:42:23.340+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.085 seconds
+[2024-07-31T11:42:53.653+0000] {processor.py:157} INFO - Started process (PID=257) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:42:53.654+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:42:53.655+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:42:53.655+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:42:53.667+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:42:53.664+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:42:53.667+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:42:53.747+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.099 seconds
+[2024-07-31T11:43:24.048+0000] {processor.py:157} INFO - Started process (PID=262) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:43:24.050+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:43:24.051+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:43:24.050+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:43:24.063+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:43:24.060+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:43:24.064+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:43:24.289+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.246 seconds
+[2024-07-31T11:43:54.404+0000] {processor.py:157} INFO - Started process (PID=267) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:43:54.405+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:43:54.406+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:43:54.406+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:43:54.415+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:43:54.413+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:43:54.416+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:43:54.488+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.088 seconds
+[2024-07-31T11:44:24.767+0000] {processor.py:157} INFO - Started process (PID=272) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:44:24.768+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:44:24.769+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:44:24.769+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:44:24.782+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:44:24.779+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:44:24.782+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:44:24.880+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.118 seconds
+[2024-07-31T11:44:55.166+0000] {processor.py:157} INFO - Started process (PID=277) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:44:55.167+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:44:55.168+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:44:55.168+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:44:55.180+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:44:55.178+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:44:55.180+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:44:55.268+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.107 seconds
+[2024-07-31T11:45:25.536+0000] {processor.py:157} INFO - Started process (PID=282) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:45:25.538+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:45:25.539+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:45:25.538+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:45:25.550+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:45:25.547+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:45:25.550+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:45:25.634+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.103 seconds
+[2024-07-31T11:45:55.897+0000] {processor.py:157} INFO - Started process (PID=287) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:45:55.897+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:45:55.898+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:45:55.898+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:45:55.904+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:45:55.903+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:45:55.905+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:45:55.982+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.087 seconds
+[2024-07-31T11:46:26.295+0000] {processor.py:157} INFO - Started process (PID=292) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:46:26.296+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:46:26.297+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:46:26.297+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:46:26.310+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:46:26.307+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:46:26.311+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:46:26.375+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.086 seconds
+[2024-07-31T11:46:56.608+0000] {processor.py:157} INFO - Started process (PID=297) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:46:56.609+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:46:56.610+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:46:56.609+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:46:56.617+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:46:56.615+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:46:56.618+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:46:56.690+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.085 seconds
+[2024-07-31T11:47:27.022+0000] {processor.py:157} INFO - Started process (PID=302) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:47:27.023+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:47:27.024+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:47:27.024+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:47:27.031+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:47:27.030+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:47:27.032+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:47:27.095+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.076 seconds
+[2024-07-31T11:47:57.430+0000] {processor.py:157} INFO - Started process (PID=307) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:47:57.431+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:47:57.433+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:47:57.432+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:47:57.446+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:47:57.443+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:47:57.447+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:47:57.512+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.087 seconds
+[2024-07-31T11:52:29.364+0000] {processor.py:157} INFO - Started process (PID=166) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:52:29.364+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:52:29.365+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:52:29.365+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:52:29.378+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:52:29.376+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:52:29.378+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:52:29.437+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.076 seconds
+[2024-07-31T11:52:59.803+0000] {processor.py:157} INFO - Started process (PID=171) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:52:59.806+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:52:59.809+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:52:59.807+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:52:59.831+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:52:59.829+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:52:59.832+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:52:59.904+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.145 seconds
+[2024-07-31T11:53:30.260+0000] {processor.py:157} INFO - Started process (PID=176) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:53:30.261+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:53:30.262+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:53:30.262+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:53:30.272+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:53:30.270+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:53:30.272+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:53:30.343+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.087 seconds
+[2024-07-31T11:54:00.614+0000] {processor.py:157} INFO - Started process (PID=181) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:54:00.615+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:54:00.617+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:54:00.616+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:54:00.627+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:54:00.623+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:54:00.628+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:54:00.693+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.083 seconds
+[2024-07-31T11:54:31.041+0000] {processor.py:157} INFO - Started process (PID=186) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:54:31.043+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:54:31.047+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:54:31.045+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:54:31.060+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:54:31.058+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:54:31.061+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:54:31.125+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.092 seconds
+[2024-07-31T11:55:01.485+0000] {processor.py:157} INFO - Started process (PID=191) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:55:01.486+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:55:01.488+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:55:01.487+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:55:01.498+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:55:01.495+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:55:01.498+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:55:01.560+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.079 seconds
+[2024-07-31T11:55:31.891+0000] {processor.py:157} INFO - Started process (PID=196) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:55:31.892+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:55:31.893+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:55:31.893+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:55:31.898+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:55:31.897+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:55:31.899+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:55:31.956+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.067 seconds
+[2024-07-31T11:56:02.361+0000] {processor.py:157} INFO - Started process (PID=201) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:56:02.361+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:56:02.363+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:56:02.362+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:56:02.373+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:56:02.371+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:56:02.373+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:56:02.436+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.080 seconds
+[2024-07-31T11:56:32.813+0000] {processor.py:157} INFO - Started process (PID=206) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:56:32.815+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:56:32.818+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:56:32.816+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:56:32.828+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:56:32.826+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:56:32.828+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:56:32.906+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.103 seconds
+[2024-07-31T11:57:03.167+0000] {processor.py:157} INFO - Started process (PID=211) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:57:03.167+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:57:03.168+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:57:03.168+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:57:03.177+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:57:03.175+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:57:03.177+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:57:03.236+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.073 seconds
+[2024-07-31T11:57:33.606+0000] {processor.py:157} INFO - Started process (PID=216) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:57:33.608+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:57:33.610+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:57:33.608+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:57:33.624+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:57:33.622+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:57:33.625+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:57:33.684+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.088 seconds
+[2024-07-31T11:58:03.970+0000] {processor.py:157} INFO - Started process (PID=221) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:58:03.970+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:58:03.972+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:58:03.971+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:58:03.982+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:58:03.980+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:58:03.982+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:58:04.049+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.083 seconds
+[2024-07-31T11:58:34.300+0000] {processor.py:157} INFO - Started process (PID=226) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:58:34.302+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:58:34.303+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:58:34.303+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:58:34.312+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:58:34.309+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:58:34.313+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:58:34.389+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.093 seconds
+[2024-07-31T11:59:04.707+0000] {processor.py:157} INFO - Started process (PID=231) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:59:04.708+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:59:04.709+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:59:04.708+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:59:04.718+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:59:04.716+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:59:04.719+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:59:04.780+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.076 seconds
+[2024-07-31T11:59:35.128+0000] {processor.py:157} INFO - Started process (PID=236) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:59:35.130+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T11:59:35.136+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:59:35.133+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:59:35.155+0000] {logging_mixin.py:151} INFO - [2024-07-31T11:59:35.153+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T11:59:35.155+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T11:59:35.216+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.091 seconds
+[2024-07-31T12:00:05.520+0000] {processor.py:157} INFO - Started process (PID=241) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:00:05.521+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T12:00:05.522+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:00:05.521+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:00:05.527+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:00:05.526+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T12:00:05.527+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:00:05.586+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.068 seconds
+[2024-07-31T12:00:35.932+0000] {processor.py:157} INFO - Started process (PID=246) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:00:35.933+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T12:00:35.935+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:00:35.934+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:00:35.946+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:00:35.943+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T12:00:35.947+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:00:36.014+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.087 seconds
+[2024-07-31T12:01:06.403+0000] {processor.py:157} INFO - Started process (PID=251) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:01:06.404+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T12:01:06.405+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:01:06.405+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:01:06.413+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:01:06.411+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T12:01:06.414+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:01:06.483+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.084 seconds
+[2024-07-31T12:01:36.789+0000] {processor.py:157} INFO - Started process (PID=256) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:01:36.790+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T12:01:36.790+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:01:36.790+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:01:36.795+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:01:36.794+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T12:01:36.796+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:01:36.854+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.068 seconds
+[2024-07-31T12:02:07.225+0000] {processor.py:157} INFO - Started process (PID=261) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:02:07.226+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T12:02:07.228+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:02:07.227+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:02:07.247+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:02:07.243+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T12:02:07.247+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:02:07.317+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.095 seconds
+[2024-07-31T12:04:19.749+0000] {processor.py:157} INFO - Started process (PID=266) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:04:19.750+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T12:04:19.751+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:04:19.750+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:04:19.756+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:04:19.754+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T12:04:19.756+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:04:19.811+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.064 seconds
+[2024-07-31T12:09:04.341+0000] {processor.py:157} INFO - Started process (PID=275) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:09:04.371+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T12:09:04.379+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:09:04.378+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:09:04.404+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:09:04.398+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T12:09:04.406+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:09:04.562+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.278 seconds
+[2024-07-31T12:10:23.671+0000] {processor.py:157} INFO - Started process (PID=166) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:10:23.674+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T12:10:23.679+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:10:23.678+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:10:23.698+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:10:23.695+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T12:10:23.699+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:10:23.762+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.095 seconds
+[2024-07-31T12:10:54.072+0000] {processor.py:157} INFO - Started process (PID=171) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:10:54.073+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T12:10:54.075+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:10:54.074+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:10:54.085+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:10:54.083+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T12:10:54.086+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:10:54.153+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.085 seconds
+[2024-07-31T12:11:24.482+0000] {processor.py:157} INFO - Started process (PID=176) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:11:24.483+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T12:11:24.484+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:11:24.483+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:11:24.490+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:11:24.489+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T12:11:24.491+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:11:24.551+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.071 seconds
+[2024-07-31T12:11:54.862+0000] {processor.py:157} INFO - Started process (PID=181) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:11:54.863+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T12:11:54.865+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:11:54.864+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:11:54.876+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:11:54.873+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T12:11:54.876+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:11:54.940+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.082 seconds
+[2024-07-31T12:12:40.560+0000] {processor.py:157} INFO - Started process (PID=167) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:12:40.565+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T12:12:40.567+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:12:40.566+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:12:40.576+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:12:40.574+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T12:12:40.576+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:12:40.644+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.086 seconds
+[2024-07-31T12:13:10.910+0000] {processor.py:157} INFO - Started process (PID=172) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:13:10.912+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T12:13:10.914+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:13:10.913+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:13:10.924+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:13:10.921+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T12:13:10.924+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:13:10.985+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.087 seconds
+[2024-07-31T12:13:41.306+0000] {processor.py:157} INFO - Started process (PID=177) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:13:41.307+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T12:13:41.308+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:13:41.308+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:13:41.316+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:13:41.314+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T12:13:41.317+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:13:41.378+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.075 seconds
+[2024-07-31T12:14:11.713+0000] {processor.py:157} INFO - Started process (PID=182) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:14:11.713+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T12:14:11.714+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:14:11.714+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:14:11.726+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:14:11.723+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T12:14:11.726+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:14:11.792+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.082 seconds
+[2024-07-31T12:14:42.136+0000] {processor.py:157} INFO - Started process (PID=187) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:14:42.137+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T12:14:42.138+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:14:42.137+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:14:42.148+0000] {logging_mixin.py:151} INFO - [2024-07-31T12:14:42.146+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T12:14:42.148+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T12:14:42.208+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.079 seconds
+[2024-07-31T13:11:48.319+0000] {processor.py:157} INFO - Started process (PID=167) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:11:48.324+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T13:11:48.326+0000] {logging_mixin.py:151} INFO - [2024-07-31T13:11:48.326+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:11:48.335+0000] {logging_mixin.py:151} INFO - [2024-07-31T13:11:48.333+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T13:11:48.335+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:11:48.399+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.082 seconds
+[2024-07-31T13:12:18.652+0000] {processor.py:157} INFO - Started process (PID=172) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:12:18.653+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T13:12:18.654+0000] {logging_mixin.py:151} INFO - [2024-07-31T13:12:18.654+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:12:18.665+0000] {logging_mixin.py:151} INFO - [2024-07-31T13:12:18.662+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T13:12:18.665+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:12:18.731+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.083 seconds
+[2024-07-31T13:12:49.158+0000] {processor.py:157} INFO - Started process (PID=177) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:12:49.159+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T13:12:49.160+0000] {logging_mixin.py:151} INFO - [2024-07-31T13:12:49.160+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:12:49.170+0000] {logging_mixin.py:151} INFO - [2024-07-31T13:12:49.167+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T13:12:49.170+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:12:49.233+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.082 seconds
+[2024-07-31T13:13:19.610+0000] {processor.py:157} INFO - Started process (PID=182) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:13:19.611+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T13:13:19.612+0000] {logging_mixin.py:151} INFO - [2024-07-31T13:13:19.611+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:13:19.621+0000] {logging_mixin.py:151} INFO - [2024-07-31T13:13:19.619+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T13:13:19.621+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:13:19.687+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.080 seconds
+[2024-07-31T13:13:50.064+0000] {processor.py:157} INFO - Started process (PID=187) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:13:50.065+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T13:13:50.066+0000] {logging_mixin.py:151} INFO - [2024-07-31T13:13:50.066+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:13:50.092+0000] {logging_mixin.py:151} INFO - [2024-07-31T13:13:50.089+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T13:13:50.092+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:13:50.236+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.176 seconds
+[2024-07-31T13:14:20.635+0000] {processor.py:157} INFO - Started process (PID=192) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:14:20.638+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T13:14:20.640+0000] {logging_mixin.py:151} INFO - [2024-07-31T13:14:20.639+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:14:20.651+0000] {logging_mixin.py:151} INFO - [2024-07-31T13:14:20.648+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T13:14:20.652+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:14:20.743+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.113 seconds
+[2024-07-31T13:14:51.207+0000] {processor.py:157} INFO - Started process (PID=197) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:14:51.208+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T13:14:51.210+0000] {logging_mixin.py:151} INFO - [2024-07-31T13:14:51.209+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:14:51.220+0000] {logging_mixin.py:151} INFO - [2024-07-31T13:14:51.218+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T13:14:51.221+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:14:51.303+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.101 seconds
+[2024-07-31T13:17:43.538+0000] {processor.py:157} INFO - Started process (PID=166) to work on /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:17:43.540+0000] {processor.py:829} INFO - Processing file /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py for tasks to queue
+[2024-07-31T13:17:43.540+0000] {logging_mixin.py:151} INFO - [2024-07-31T13:17:43.540+0000] {dagbag.py:536} INFO - Filling up the DagBag from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:17:43.546+0000] {logging_mixin.py:151} INFO - [2024-07-31T13:17:43.544+0000] {dagbag.py:346} ERROR - Failed to import: /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.8/site-packages/airflow/models/dagbag.py", line 342, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 843, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py", line 10, in <module>
+    from scripts.download_osm_data import download_osm_data
+ModuleNotFoundError: No module named 'scripts'
+[2024-07-31T13:17:43.546+0000] {processor.py:841} WARNING - No viable dags retrieved from /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py
+[2024-07-31T13:17:43.606+0000] {processor.py:179} INFO - Processing /opt/airflow/dags/osm_to_geojson_to_html_mongodb_dag.py took 0.070 seconds
